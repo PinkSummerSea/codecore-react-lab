@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  
+}
+
+h1, h3 {
+  font-family: 'Oleo Script Swash Caps', cursive;
 }
 
 .App-logo {
